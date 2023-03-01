@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese garden
+* source:	https://sketchfab.com/3d-models/japanese-garden-9ee6d46c7152403fb23928c81ece9f7d
+* author:	Bea (https://sketchfab.com/baeart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese garden" (https://sketchfab.com/3d-models/japanese-garden-9ee6d46c7152403fb23928c81ece9f7d) by Bea (https://sketchfab.com/baeart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
