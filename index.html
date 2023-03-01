@@ -82,6 +82,7 @@
 
       let loader = new GLTFLoader();
       loader.load("test/test22.gltf", function (gltf) {
+        // loader.load("sketch/scene.gltf", function (gltf) {
         console.log(gltf);
         gltf.scene.scale.set(4, 4, 4);
         gltf.scene.position.x = 0;
